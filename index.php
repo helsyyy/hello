@@ -5,9 +5,9 @@
     <title>Document</title>
 </head>
 <body>
+    Hello World
  <?php 
-    $name='Vlad';
-    $surname='Cheredaiko';
+    $id = 5;
     $city='Dnipro';
     define(year, '20');
      
