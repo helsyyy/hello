@@ -2,21 +2,7 @@
 отредактировано
 <footer class="page-footer font-small indigo">
 
-  <!-- Footer Links -->
-  <div class="container text-center text-md-left">
-
-    <!-- Grid row -->
-    <div class="row">
-
-      <!-- Grid column -->
-      <div class="col-md-3 mx-auto">
-
-        <!-- Links -->
-        <h5 class="font-weight-bold text-uppercase mt-3 mb-4">Navigation</h5>
-
-        <ul class="list-unstyled">
-          <li>
-            <a href="<?php echo $settings['site_href'] ?>">Home</a>
+  <!-- Footer Link</a>
           </li>
           <li>
             <a href="<?php echo $settings['site_href'] ?>/form.php">Add person</a>
