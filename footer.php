@@ -1,4 +1,5 @@
 <!-- Footer -->
+отредактировано
 <footer class="page-footer font-small indigo">
 
   <!-- Footer Links -->
