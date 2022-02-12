@@ -1,6 +1,7 @@
 <?php
 $connection = mysqli_connect("localhost","root","","Person_name2222");
 
+
 if( $connection == false )
 {
     echo 'Не вдалося підключитися до бази даних';
